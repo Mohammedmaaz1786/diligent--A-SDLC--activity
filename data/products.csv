@@ -1,0 +1,251 @@
+product_id,product_name,category,price,stock_qty
+1,Samsung Galaxy S23,Electronics,74999,150
+2,Dell Inspiron Laptop,Electronics,52999,85
+3,Sony WH-1000XM5 Headphones,Electronics,29990,200
+4,Apple iPhone 14,Electronics,79900,120
+5,LG 43 Inch Smart TV,Electronics,35999,65
+6,Nike Air Max Shoes,Footwear,8999,180
+7,Adidas Running Shoes,Footwear,6499,220
+8,Puma Tracksuit,Clothing,3499,150
+9,Levis Jeans,Clothing,2999,300
+10,Raymond Formal Shirt,Clothing,1899,250
+11,Sony PlayStation 5,Electronics,49990,40
+12,Canon EOS 1500D Camera,Electronics,39999,55
+13,JBL Flip 6 Speaker,Electronics,11999,175
+14,Boat Airdopes 131,Electronics,1299,400
+15,Mi Smart Band 7,Electronics,2799,320
+16,Fossil Gen 6 Smartwatch,Electronics,19995,90
+17,HP LaserJet Printer,Electronics,12999,70
+18,Logitech Wireless Mouse,Electronics,699,500
+19,Dell Keyboard,Electronics,899,450
+20,Samsung 256GB SSD,Electronics,3299,280
+21,Western Digital 1TB HDD,Electronics,3499,200
+22,TP-Link WiFi Router,Electronics,1499,350
+23,D-Link Modem,Electronics,1199,400
+24,Havells Table Fan,Home Appliances,1799,220
+25,Bajaj Ceiling Fan,Home Appliances,2199,180
+26,Philips LED Bulb 9W,Home Appliances,199,800
+27,Orient Electric Heater,Home Appliances,2999,95
+28,Usha Air Cooler,Home Appliances,7499,110
+29,Blue Star AC 1.5 Ton,Home Appliances,35999,45
+30,Whirlpool Refrigerator,Home Appliances,24999,60
+31,IFB Washing Machine,Home Appliances,22999,55
+32,LG Microwave Oven,Home Appliances,7999,85
+33,Prestige Induction Cooktop,Home Appliances,2499,150
+34,Pigeon Electric Kettle,Home Appliances,799,300
+35,Butterfly Mixer Grinder,Home Appliances,3299,125
+36,Philips Air Fryer,Home Appliances,8999,70
+37,Kent RO Water Purifier,Home Appliances,12999,80
+38,Eureka Forbes Vacuum Cleaner,Home Appliances,6999,95
+39,Godrej Almirah,Furniture,15999,35
+40,Nilkamal Plastic Chair,Furniture,699,400
+41,IKEA Study Table,Furniture,4999,90
+42,Urban Ladder Sofa Set,Furniture,34999,25
+43,Pepperfry King Size Bed,Furniture,24999,40
+44,Durian Office Chair,Furniture,8999,110
+45,Hometown Bookshelf,Furniture,5499,75
+46,Spacewood TV Unit,Furniture,7999,60
+47,@home Dining Table,Furniture,18999,45
+48,Wakefit Orthopedic Mattress,Furniture,12999,100
+49,Sleepwell Pillow,Furniture,599,350
+50,Solimo Bedsheet,Home Decor,899,250
+51,Cortina Curtains,Home Decor,1299,180
+52,Saaj Wall Clock,Home Decor,499,300
+53,TIED RIBBONS Photo Frame,Home Decor,349,400
+54,Random Carpet 5x7,Home Decor,2999,120
+55,Story@Home Door Mat,Home Decor,399,280
+56,Saffron Wall Stickers,Home Decor,199,500
+57,Decor Villa Canvas Painting,Home Decor,1499,150
+58,Collectible India Showpiece,Home Decor,899,200
+59,Chumbak Table Lamp,Home Decor,1999,160
+60,Mamaearth Face Wash,Beauty & Personal Care,249,600
+61,Biotique Shampoo,Beauty & Personal Care,299,450
+62,Lakme Lipstick,Beauty & Personal Care,450,550
+63,Nivea Body Lotion,Beauty & Personal Care,349,400
+64,Himalaya Face Cream,Beauty & Personal Care,199,700
+65,Gillette Razor,Beauty & Personal Care,299,500
+66,Old Spice Deodorant,Beauty & Personal Care,249,480
+67,Dove Soap,Beauty & Personal Care,99,900
+68,Ponds Talcum Powder,Beauty & Personal Care,150,650
+69,Vaseline Petroleum Jelly,Beauty & Personal Care,89,750
+70,Patanjali Aloe Vera Gel,Beauty & Personal Care,149,550
+71,Dabur Honey 500g,Groceries,250,400
+72,Tata Tea Premium 1kg,Groceries,450,350
+73,Nescafe Classic Coffee,Groceries,349,420
+74,Maggi Noodles Pack of 12,Groceries,144,800
+75,Nestle KitKat Chocolates,Groceries,50,1000
+76,Cadbury Dairy Milk,Groceries,45,1200
+77,Parle-G Biscuits,Groceries,25,1500
+78,Britannia Good Day,Groceries,30,1300
+79,Fortune Sunflower Oil 1L,Groceries,165,600
+80,India Gate Basmati Rice 5kg,Groceries,599,300
+81,Tata Salt 1kg,Groceries,20,2000
+82,Aashirvaad Atta 10kg,Groceries,450,450
+83,Amul Butter 500g,Groceries,260,380
+84,Mother Dairy Milk 1L,Groceries,60,700
+85,Haldirams Namkeen,Groceries,80,650
+86,Lays Chips,Groceries,20,1100
+87,Pepsi 2L Bottle,Groceries,90,550
+88,Coca Cola 1.25L,Groceries,60,600
+89,Frooti Mango Drink,Groceries,35,800
+90,Real Juice 1L,Groceries,120,450
+91,Paper Boat Aamras,Groceries,99,350
+92,Bisleri Water 20L,Groceries,110,500
+93,Colgate Toothpaste,Beauty & Personal Care,85,750
+94,Sensodyne Toothpaste,Beauty & Personal Care,180,400
+95,Close Up Toothpaste,Beauty & Personal Care,75,600
+96,Oral-B Toothbrush,Beauty & Personal Care,40,850
+97,Listerine Mouthwash,Beauty & Personal Care,199,350
+98,Johnson Baby Powder,Beauty & Personal Care,149,450
+99,Huggies Diapers,Baby Care,899,200
+100,Pampers Baby Wipes,Baby Care,199,350
+101,Mee Mee Baby Bottle,Baby Care,299,280
+102,Chicco Feeding Set,Baby Care,799,150
+103,Himalaya Baby Lotion,Baby Care,149,400
+104,Sebamed Baby Shampoo,Baby Care,399,250
+105,Philips Avent Pacifier,Baby Care,249,300
+106,First Cry Soft Toy,Toys,499,200
+107,Hot Wheels Car Set,Toys,999,180
+108,Barbie Doll,Toys,1299,150
+109,Lego Classic Box,Toys,2499,120
+110,Nerf Gun,Toys,1599,140
+111,Funskool Board Games,Toys,699,220
+112,Rubiks Cube,Toys,149,500
+113,Monopoly Deal,Toys,299,350
+114,Chess Board,Toys,399,280
+115,Cricket Bat,Sports,1499,160
+116,Cosco Football,Sports,499,250
+117,Nivia Badminton Racket,Sports,899,200
+118,Yonex Shuttlecock,Sports,350,400
+119,Vector X Gym Dumbbell,Sports,1299,180
+120,Strauss Yoga Mat,Sports,699,220
+121,Kalenji Running Shoes,Footwear,3999,200
+122,Decathlon Cycling Shorts,Sports,899,150
+123,Wildcraft Backpack,Bags,1999,180
+124,American Tourister Trolley,Bags,4999,90
+125,Skybags School Bag,Bags,1299,250
+126,Fastrack Wallet,Accessories,699,300
+127,Titan Watch,Accessories,4999,140
+128,Casio Digital Watch,Accessories,2499,180
+129,Ray-Ban Sunglasses,Accessories,8999,80
+130,Puma Cap,Accessories,499,350
+131,Woodland Belt,Accessories,799,220
+132,Monte Carlo Sweater,Clothing,1799,180
+133,Allen Solly T-Shirt,Clothing,799,400
+134,Peter England Trousers,Clothing,1499,280
+135,Wrogn Casual Shirt,Clothing,1299,320
+136,Flying Machine Jacket,Clothing,2999,150
+137,Biba Kurti,Clothing,1499,250
+138,W for Woman Saree,Clothing,2499,180
+139,Fabindia Kurta Pajama,Clothing,1999,200
+140,Global Desi Palazzo,Clothing,1299,220
+141,Aurelia Ethnic Dress,Clothing,1799,190
+142,Bata Sandals,Footwear,999,300
+143,Red Tape Formal Shoes,Footwear,2999,150
+144,Sparx Casual Shoes,Footwear,1499,250
+145,Liberty School Shoes,Footwear,899,350
+146,Crocs Clogs,Footwear,2499,180
+147,Skechers Sneakers,Footwear,4999,120
+148,Reebok Sports Shoes,Footwear,3999,160
+149,Asian Walking Shoes,Footwear,1299,280
+150,Campus College Shoes,Footwear,1799,220
+151,Philips Trimmer,Electronics,1499,200
+152,Panasonic Shaver,Electronics,2999,140
+153,Syska Hair Dryer,Electronics,899,180
+154,Havells Iron,Home Appliances,799,250
+155,Bajaj Immersion Rod,Home Appliances,299,400
+156,Crompton Geyser,Home Appliances,5999,70
+157,V-Guard Stabilizer,Electronics,2499,120
+158,APC UPS,Electronics,3999,90
+159,Luminous Inverter,Electronics,8999,60
+160,Exide Battery,Electronics,4999,85
+161,Anchor Extension Board,Electronics,349,500
+162,GM Modular Switch,Electronics,99,800
+163,Polycab Wire 90m,Electronics,899,200
+164,Cello Ballpoint Pen,Stationery,10,2000
+165,Classmate Notebook,Stationery,40,1500
+166,Camlin Oil Pastels,Stationery,99,600
+167,Doms Pencil Box,Stationery,120,700
+168,Staedtler Markers,Stationery,250,400
+169,Faber Castell Geometry Box,Stationery,149,500
+170,Parker Fountain Pen,Stationery,899,180
+171,Reynolds Ball Pen,Stationery,15,1800
+172,Navneet Register,Stationery,80,900
+173,Scotch Tape,Stationery,30,1200
+174,Fevicol 100ml,Stationery,25,1000
+175,Natraj Sharpener,Stationery,5,2500
+176,Kores Eraser,Stationery,5,2200
+177,Artline Whiteboard Marker,Stationery,80,650
+178,Post-it Sticky Notes,Stationery,120,550
+179,HP Ink Cartridge,Electronics,899,250
+180,Epson Printer Paper,Stationery,349,400
+181,Kangaro Stapler,Stationery,99,700
+182,Oddy Files,Stationery,25,1500
+183,Solo Lever Arch File,Stationery,120,600
+184,Apsara Wax Crayons,Stationery,50,800
+185,Luxor Highlighter,Stationery,60,750
+186,Milton Water Bottle,Home & Kitchen,299,450
+187,Cello Flask,Home & Kitchen,399,380
+188,Tupperware Container Set,Home & Kitchen,999,220
+189,Borosil Glass Set,Home & Kitchen,499,300
+190,Prestige Cooker 5L,Home & Kitchen,1899,160
+191,Hawkins Pressure Cooker,Home & Kitchen,2299,140
+192,Pigeon Non-stick Tawa,Home & Kitchen,499,280
+193,Vinod Kadhai,Home & Kitchen,899,200
+194,Butterfly Gas Stove,Home Appliances,3499,110
+195,Sunflame Burner,Home Appliances,2999,130
+196,Wonderchef Cookware Set,Home & Kitchen,3999,95
+197,Bergner Knife Set,Home & Kitchen,1299,180
+198,Joseph Joseph Chopping Board,Home & Kitchen,899,220
+199,Kuber Industries Lunch Box,Home & Kitchen,249,500
+200,Signoraware Casserole,Home & Kitchen,599,350
+201,Flipkart SmartBuy Dustbin,Home & Kitchen,399,400
+202,Gala Mop,Home & Kitchen,199,600
+203,Scotch Brite Scrubber,Home & Kitchen,25,1800
+204,Vim Dishwash Bar,Groceries,10,2500
+205,Surf Excel Detergent,Groceries,150,700
+206,Ariel Matic Liquid,Groceries,399,400
+207,Comfort Fabric Softener,Groceries,199,500
+208,Harpic Toilet Cleaner,Groceries,99,800
+209,Lizol Floor Cleaner,Groceries,149,650
+210,Colin Glass Cleaner,Groceries,89,700
+211,Hit Mosquito Spray,Groceries,175,550
+212,Mortein Coil,Groceries,35,1000
+213,Good Knight Refill,Groceries,120,600
+214,All Out Liquid,Groceries,140,550
+215,Dettol Handwash,Groceries,79,750
+216,Savlon Antiseptic,Groceries,99,600
+217,Band-Aid Pack,Health,40,900
+218,Vicks Vaporub,Health,99,650
+219,Crocin Tablets,Health,15,1200
+220,Dolo 650,Health,20,1100
+221,Disprin,Health,12,1400
+222,Iodex Balm,Health,65,700
+223,Volini Spray,Health,149,500
+224,Moov Pain Cream,Health,89,600
+225,Boroline Cream,Health,45,800
+226,Zandu Balm,Health,55,750
+227,Halls Cough Drops,Health,10,1500
+228,Strepsils Lozenges,Health,25,1200
+229,Burnol Cream,Health,35,900
+230,ORS Powder,Health,8,1800
+231,Electral Powder,Health,20,1300
+232,Pudin Hara,Health,30,1000
+233,Eno Antacid,Health,40,950
+234,Gelusil Tablets,Health,35,1100
+235,Digene Gel,Health,50,850
+236,Liv 52 Tablets,Health,180,400
+237,Chyawanprash 500g,Health,299,350
+238,Dabur Glucose-D,Health,120,600
+239,Horlicks 500g,Groceries,250,500
+240,Bournvita 500g,Groceries,240,520
+241,Complan 500g,Groceries,280,450
+242,Protinex 250g,Groceries,399,300
+243,Boost 500g,Groceries,260,480
+244,Milo 400g,Groceries,220,400
+245,Ensure Nutrition Powder,Health,899,180
+246,Pediasure Vanilla,Health,1299,150
+247,Aptamil Baby Formula,Baby Care,1599,120
+248,Nestle Cerelac,Baby Care,199,450
+249,Farex Baby Food,Baby Care,149,400
+250,Heinz Baby Food,Baby Care,180,350
